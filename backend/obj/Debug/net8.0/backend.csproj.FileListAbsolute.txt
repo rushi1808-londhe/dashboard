@@ -1,0 +1,178 @@
+/Users/rushikesh/Desktop/dashboard-module 2/backend/bin/Debug/net8.0/appsettings.Development.json
+/Users/rushikesh/Desktop/dashboard-module 2/backend/bin/Debug/net8.0/appsettings.json
+/Users/rushikesh/Desktop/dashboard-module 2/backend/bin/Debug/net8.0/backend
+/Users/rushikesh/Desktop/dashboard-module 2/backend/bin/Debug/net8.0/backend.deps.json
+/Users/rushikesh/Desktop/dashboard-module 2/backend/bin/Debug/net8.0/backend.runtimeconfig.json
+/Users/rushikesh/Desktop/dashboard-module 2/backend/bin/Debug/net8.0/backend.dll
+/Users/rushikesh/Desktop/dashboard-module 2/backend/bin/Debug/net8.0/backend.pdb
+/Users/rushikesh/Desktop/dashboard-module 2/backend/bin/Debug/net8.0/HealthChecks.NpgSql.dll
+/Users/rushikesh/Desktop/dashboard-module 2/backend/bin/Debug/net8.0/Company.Monitoring.dll
+/Users/rushikesh/Desktop/dashboard-module 2/backend/bin/Debug/net8.0/Dapper.dll
+/Users/rushikesh/Desktop/dashboard-module 2/backend/bin/Debug/net8.0/Microsoft.AspNetCore.OpenApi.dll
+/Users/rushikesh/Desktop/dashboard-module 2/backend/bin/Debug/net8.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/Users/rushikesh/Desktop/dashboard-module 2/backend/bin/Debug/net8.0/Microsoft.Extensions.DependencyModel.dll
+/Users/rushikesh/Desktop/dashboard-module 2/backend/bin/Debug/net8.0/Microsoft.Extensions.Diagnostics.Abstractions.dll
+/Users/rushikesh/Desktop/dashboard-module 2/backend/bin/Debug/net8.0/Microsoft.Extensions.Diagnostics.HealthChecks.dll
+/Users/rushikesh/Desktop/dashboard-module 2/backend/bin/Debug/net8.0/Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+/Users/rushikesh/Desktop/dashboard-module 2/backend/bin/Debug/net8.0/Microsoft.Extensions.Hosting.Abstractions.dll
+/Users/rushikesh/Desktop/dashboard-module 2/backend/bin/Debug/net8.0/Microsoft.Extensions.Logging.Abstractions.dll
+/Users/rushikesh/Desktop/dashboard-module 2/backend/bin/Debug/net8.0/Microsoft.Extensions.Options.dll
+/Users/rushikesh/Desktop/dashboard-module 2/backend/bin/Debug/net8.0/Microsoft.OpenApi.dll
+/Users/rushikesh/Desktop/dashboard-module 2/backend/bin/Debug/net8.0/Npgsql.dll
+/Users/rushikesh/Desktop/dashboard-module 2/backend/bin/Debug/net8.0/Prometheus.NetStandard.dll
+/Users/rushikesh/Desktop/dashboard-module 2/backend/bin/Debug/net8.0/Prometheus.AspNetCore.dll
+/Users/rushikesh/Desktop/dashboard-module 2/backend/bin/Debug/net8.0/Serilog.dll
+/Users/rushikesh/Desktop/dashboard-module 2/backend/bin/Debug/net8.0/Serilog.AspNetCore.dll
+/Users/rushikesh/Desktop/dashboard-module 2/backend/bin/Debug/net8.0/Serilog.Enrichers.Environment.dll
+/Users/rushikesh/Desktop/dashboard-module 2/backend/bin/Debug/net8.0/Serilog.Enrichers.Process.dll
+/Users/rushikesh/Desktop/dashboard-module 2/backend/bin/Debug/net8.0/Serilog.Enrichers.Thread.dll
+/Users/rushikesh/Desktop/dashboard-module 2/backend/bin/Debug/net8.0/Serilog.Extensions.Hosting.dll
+/Users/rushikesh/Desktop/dashboard-module 2/backend/bin/Debug/net8.0/Serilog.Extensions.Logging.dll
+/Users/rushikesh/Desktop/dashboard-module 2/backend/bin/Debug/net8.0/Serilog.Formatting.Compact.dll
+/Users/rushikesh/Desktop/dashboard-module 2/backend/bin/Debug/net8.0/Serilog.Settings.Configuration.dll
+/Users/rushikesh/Desktop/dashboard-module 2/backend/bin/Debug/net8.0/Serilog.Sinks.Console.dll
+/Users/rushikesh/Desktop/dashboard-module 2/backend/bin/Debug/net8.0/Serilog.Sinks.Debug.dll
+/Users/rushikesh/Desktop/dashboard-module 2/backend/bin/Debug/net8.0/Serilog.Sinks.File.dll
+/Users/rushikesh/Desktop/dashboard-module 2/backend/bin/Debug/net8.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/rushikesh/Desktop/dashboard-module 2/backend/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/rushikesh/Desktop/dashboard-module 2/backend/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/rushikesh/Desktop/dashboard-module 2/backend/obj/Debug/net8.0/backend.csproj.AssemblyReference.cache
+/Users/rushikesh/Desktop/dashboard-module 2/backend/obj/Debug/net8.0/backend.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rushikesh/Desktop/dashboard-module 2/backend/obj/Debug/net8.0/backend.AssemblyInfoInputs.cache
+/Users/rushikesh/Desktop/dashboard-module 2/backend/obj/Debug/net8.0/backend.AssemblyInfo.cs
+/Users/rushikesh/Desktop/dashboard-module 2/backend/obj/Debug/net8.0/backend.csproj.CoreCompileInputs.cache
+/Users/rushikesh/Desktop/dashboard-module 2/backend/obj/Debug/net8.0/backend.MvcApplicationPartsAssemblyInfo.cs
+/Users/rushikesh/Desktop/dashboard-module 2/backend/obj/Debug/net8.0/backend.MvcApplicationPartsAssemblyInfo.cache
+/Users/rushikesh/Desktop/dashboard-module 2/backend/obj/Debug/net8.0/staticwebassets.build.json
+/Users/rushikesh/Desktop/dashboard-module 2/backend/obj/Debug/net8.0/staticwebassets.development.json
+/Users/rushikesh/Desktop/dashboard-module 2/backend/obj/Debug/net8.0/staticwebassets/msbuild.backend.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/rushikesh/Desktop/dashboard-module 2/backend/obj/Debug/net8.0/staticwebassets/msbuild.build.backend.props
+/Users/rushikesh/Desktop/dashboard-module 2/backend/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.backend.props
+/Users/rushikesh/Desktop/dashboard-module 2/backend/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.backend.props
+/Users/rushikesh/Desktop/dashboard-module 2/backend/obj/Debug/net8.0/staticwebassets.pack.json
+/Users/rushikesh/Desktop/dashboard-module 2/backend/obj/Debug/net8.0/scopedcss/bundle/backend.styles.css
+/Users/rushikesh/Desktop/dashboard-module 2/backend/obj/Debug/net8.0/backend.csproj.Up2Date
+/Users/rushikesh/Desktop/dashboard-module 2/backend/obj/Debug/net8.0/backend.dll
+/Users/rushikesh/Desktop/dashboard-module 2/backend/obj/Debug/net8.0/refint/backend.dll
+/Users/rushikesh/Desktop/dashboard-module 2/backend/obj/Debug/net8.0/backend.pdb
+/Users/rushikesh/Desktop/dashboard-module 2/backend/obj/Debug/net8.0/backend.genruntimeconfig.cache
+/Users/rushikesh/Desktop/dashboard-module 2/backend/obj/Debug/net8.0/ref/backend.dll
+/Users/rushikesh/Desktop/dashboard-module 2/backend/obj/Debug/net8.0/backend.sourcelink.json
+/Users/rushikesh/Desktop/dashboard-module 3/backend/bin/Debug/net8.0/appsettings.Development.json
+/Users/rushikesh/Desktop/dashboard-module 3/backend/bin/Debug/net8.0/appsettings.json
+/Users/rushikesh/Desktop/dashboard-module 3/backend/bin/Debug/net8.0/backend
+/Users/rushikesh/Desktop/dashboard-module 3/backend/bin/Debug/net8.0/backend.deps.json
+/Users/rushikesh/Desktop/dashboard-module 3/backend/bin/Debug/net8.0/backend.runtimeconfig.json
+/Users/rushikesh/Desktop/dashboard-module 3/backend/bin/Debug/net8.0/backend.dll
+/Users/rushikesh/Desktop/dashboard-module 3/backend/bin/Debug/net8.0/backend.pdb
+/Users/rushikesh/Desktop/dashboard-module 3/backend/bin/Debug/net8.0/HealthChecks.NpgSql.dll
+/Users/rushikesh/Desktop/dashboard-module 3/backend/bin/Debug/net8.0/Company.Monitoring.dll
+/Users/rushikesh/Desktop/dashboard-module 3/backend/bin/Debug/net8.0/Dapper.dll
+/Users/rushikesh/Desktop/dashboard-module 3/backend/bin/Debug/net8.0/Microsoft.AspNetCore.OpenApi.dll
+/Users/rushikesh/Desktop/dashboard-module 3/backend/bin/Debug/net8.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/Users/rushikesh/Desktop/dashboard-module 3/backend/bin/Debug/net8.0/Microsoft.Extensions.DependencyModel.dll
+/Users/rushikesh/Desktop/dashboard-module 3/backend/bin/Debug/net8.0/Microsoft.Extensions.Diagnostics.Abstractions.dll
+/Users/rushikesh/Desktop/dashboard-module 3/backend/bin/Debug/net8.0/Microsoft.Extensions.Diagnostics.HealthChecks.dll
+/Users/rushikesh/Desktop/dashboard-module 3/backend/bin/Debug/net8.0/Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+/Users/rushikesh/Desktop/dashboard-module 3/backend/bin/Debug/net8.0/Microsoft.Extensions.Hosting.Abstractions.dll
+/Users/rushikesh/Desktop/dashboard-module 3/backend/bin/Debug/net8.0/Microsoft.Extensions.Logging.Abstractions.dll
+/Users/rushikesh/Desktop/dashboard-module 3/backend/bin/Debug/net8.0/Microsoft.Extensions.Options.dll
+/Users/rushikesh/Desktop/dashboard-module 3/backend/bin/Debug/net8.0/Microsoft.OpenApi.dll
+/Users/rushikesh/Desktop/dashboard-module 3/backend/bin/Debug/net8.0/Npgsql.dll
+/Users/rushikesh/Desktop/dashboard-module 3/backend/bin/Debug/net8.0/Prometheus.NetStandard.dll
+/Users/rushikesh/Desktop/dashboard-module 3/backend/bin/Debug/net8.0/Prometheus.AspNetCore.dll
+/Users/rushikesh/Desktop/dashboard-module 3/backend/bin/Debug/net8.0/Serilog.dll
+/Users/rushikesh/Desktop/dashboard-module 3/backend/bin/Debug/net8.0/Serilog.AspNetCore.dll
+/Users/rushikesh/Desktop/dashboard-module 3/backend/bin/Debug/net8.0/Serilog.Enrichers.Environment.dll
+/Users/rushikesh/Desktop/dashboard-module 3/backend/bin/Debug/net8.0/Serilog.Enrichers.Process.dll
+/Users/rushikesh/Desktop/dashboard-module 3/backend/bin/Debug/net8.0/Serilog.Enrichers.Thread.dll
+/Users/rushikesh/Desktop/dashboard-module 3/backend/bin/Debug/net8.0/Serilog.Extensions.Hosting.dll
+/Users/rushikesh/Desktop/dashboard-module 3/backend/bin/Debug/net8.0/Serilog.Extensions.Logging.dll
+/Users/rushikesh/Desktop/dashboard-module 3/backend/bin/Debug/net8.0/Serilog.Formatting.Compact.dll
+/Users/rushikesh/Desktop/dashboard-module 3/backend/bin/Debug/net8.0/Serilog.Settings.Configuration.dll
+/Users/rushikesh/Desktop/dashboard-module 3/backend/bin/Debug/net8.0/Serilog.Sinks.Console.dll
+/Users/rushikesh/Desktop/dashboard-module 3/backend/bin/Debug/net8.0/Serilog.Sinks.Debug.dll
+/Users/rushikesh/Desktop/dashboard-module 3/backend/bin/Debug/net8.0/Serilog.Sinks.File.dll
+/Users/rushikesh/Desktop/dashboard-module 3/backend/bin/Debug/net8.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/rushikesh/Desktop/dashboard-module 3/backend/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/rushikesh/Desktop/dashboard-module 3/backend/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/rushikesh/Desktop/dashboard-module 3/backend/obj/Debug/net8.0/backend.csproj.AssemblyReference.cache
+/Users/rushikesh/Desktop/dashboard-module 3/backend/obj/Debug/net8.0/backend.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rushikesh/Desktop/dashboard-module 3/backend/obj/Debug/net8.0/backend.AssemblyInfoInputs.cache
+/Users/rushikesh/Desktop/dashboard-module 3/backend/obj/Debug/net8.0/backend.AssemblyInfo.cs
+/Users/rushikesh/Desktop/dashboard-module 3/backend/obj/Debug/net8.0/backend.csproj.CoreCompileInputs.cache
+/Users/rushikesh/Desktop/dashboard-module 3/backend/obj/Debug/net8.0/backend.MvcApplicationPartsAssemblyInfo.cs
+/Users/rushikesh/Desktop/dashboard-module 3/backend/obj/Debug/net8.0/backend.MvcApplicationPartsAssemblyInfo.cache
+/Users/rushikesh/Desktop/dashboard-module 3/backend/obj/Debug/net8.0/staticwebassets.build.json
+/Users/rushikesh/Desktop/dashboard-module 3/backend/obj/Debug/net8.0/staticwebassets.development.json
+/Users/rushikesh/Desktop/dashboard-module 3/backend/obj/Debug/net8.0/staticwebassets/msbuild.backend.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/rushikesh/Desktop/dashboard-module 3/backend/obj/Debug/net8.0/staticwebassets/msbuild.build.backend.props
+/Users/rushikesh/Desktop/dashboard-module 3/backend/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.backend.props
+/Users/rushikesh/Desktop/dashboard-module 3/backend/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.backend.props
+/Users/rushikesh/Desktop/dashboard-module 3/backend/obj/Debug/net8.0/staticwebassets.pack.json
+/Users/rushikesh/Desktop/dashboard-module 3/backend/obj/Debug/net8.0/scopedcss/bundle/backend.styles.css
+/Users/rushikesh/Desktop/dashboard-module 3/backend/obj/Debug/net8.0/backend.csproj.Up2Date
+/Users/rushikesh/Desktop/dashboard-module 3/backend/obj/Debug/net8.0/backend.dll
+/Users/rushikesh/Desktop/dashboard-module 3/backend/obj/Debug/net8.0/refint/backend.dll
+/Users/rushikesh/Desktop/dashboard-module 3/backend/obj/Debug/net8.0/backend.pdb
+/Users/rushikesh/Desktop/dashboard-module 3/backend/obj/Debug/net8.0/backend.genruntimeconfig.cache
+/Users/rushikesh/Desktop/dashboard-module 3/backend/obj/Debug/net8.0/ref/backend.dll
+/Users/rushikesh/Desktop/dashboard/backend/bin/Debug/net8.0/appsettings.Development.json
+/Users/rushikesh/Desktop/dashboard/backend/bin/Debug/net8.0/appsettings.json
+/Users/rushikesh/Desktop/dashboard/backend/bin/Debug/net8.0/backend
+/Users/rushikesh/Desktop/dashboard/backend/bin/Debug/net8.0/backend.deps.json
+/Users/rushikesh/Desktop/dashboard/backend/bin/Debug/net8.0/backend.runtimeconfig.json
+/Users/rushikesh/Desktop/dashboard/backend/bin/Debug/net8.0/backend.dll
+/Users/rushikesh/Desktop/dashboard/backend/bin/Debug/net8.0/backend.pdb
+/Users/rushikesh/Desktop/dashboard/backend/bin/Debug/net8.0/HealthChecks.NpgSql.dll
+/Users/rushikesh/Desktop/dashboard/backend/bin/Debug/net8.0/Company.Monitoring.dll
+/Users/rushikesh/Desktop/dashboard/backend/bin/Debug/net8.0/Dapper.dll
+/Users/rushikesh/Desktop/dashboard/backend/bin/Debug/net8.0/Microsoft.AspNetCore.OpenApi.dll
+/Users/rushikesh/Desktop/dashboard/backend/bin/Debug/net8.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/Users/rushikesh/Desktop/dashboard/backend/bin/Debug/net8.0/Microsoft.Extensions.DependencyModel.dll
+/Users/rushikesh/Desktop/dashboard/backend/bin/Debug/net8.0/Microsoft.Extensions.Diagnostics.Abstractions.dll
+/Users/rushikesh/Desktop/dashboard/backend/bin/Debug/net8.0/Microsoft.Extensions.Diagnostics.HealthChecks.dll
+/Users/rushikesh/Desktop/dashboard/backend/bin/Debug/net8.0/Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+/Users/rushikesh/Desktop/dashboard/backend/bin/Debug/net8.0/Microsoft.Extensions.Hosting.Abstractions.dll
+/Users/rushikesh/Desktop/dashboard/backend/bin/Debug/net8.0/Microsoft.Extensions.Logging.Abstractions.dll
+/Users/rushikesh/Desktop/dashboard/backend/bin/Debug/net8.0/Microsoft.Extensions.Options.dll
+/Users/rushikesh/Desktop/dashboard/backend/bin/Debug/net8.0/Microsoft.OpenApi.dll
+/Users/rushikesh/Desktop/dashboard/backend/bin/Debug/net8.0/Npgsql.dll
+/Users/rushikesh/Desktop/dashboard/backend/bin/Debug/net8.0/Prometheus.NetStandard.dll
+/Users/rushikesh/Desktop/dashboard/backend/bin/Debug/net8.0/Prometheus.AspNetCore.dll
+/Users/rushikesh/Desktop/dashboard/backend/bin/Debug/net8.0/Serilog.dll
+/Users/rushikesh/Desktop/dashboard/backend/bin/Debug/net8.0/Serilog.AspNetCore.dll
+/Users/rushikesh/Desktop/dashboard/backend/bin/Debug/net8.0/Serilog.Enrichers.Environment.dll
+/Users/rushikesh/Desktop/dashboard/backend/bin/Debug/net8.0/Serilog.Enrichers.Process.dll
+/Users/rushikesh/Desktop/dashboard/backend/bin/Debug/net8.0/Serilog.Enrichers.Thread.dll
+/Users/rushikesh/Desktop/dashboard/backend/bin/Debug/net8.0/Serilog.Extensions.Hosting.dll
+/Users/rushikesh/Desktop/dashboard/backend/bin/Debug/net8.0/Serilog.Extensions.Logging.dll
+/Users/rushikesh/Desktop/dashboard/backend/bin/Debug/net8.0/Serilog.Formatting.Compact.dll
+/Users/rushikesh/Desktop/dashboard/backend/bin/Debug/net8.0/Serilog.Settings.Configuration.dll
+/Users/rushikesh/Desktop/dashboard/backend/bin/Debug/net8.0/Serilog.Sinks.Console.dll
+/Users/rushikesh/Desktop/dashboard/backend/bin/Debug/net8.0/Serilog.Sinks.Debug.dll
+/Users/rushikesh/Desktop/dashboard/backend/bin/Debug/net8.0/Serilog.Sinks.File.dll
+/Users/rushikesh/Desktop/dashboard/backend/bin/Debug/net8.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/rushikesh/Desktop/dashboard/backend/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/rushikesh/Desktop/dashboard/backend/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/rushikesh/Desktop/dashboard/backend/obj/Debug/net8.0/backend.csproj.AssemblyReference.cache
+/Users/rushikesh/Desktop/dashboard/backend/obj/Debug/net8.0/backend.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rushikesh/Desktop/dashboard/backend/obj/Debug/net8.0/backend.AssemblyInfoInputs.cache
+/Users/rushikesh/Desktop/dashboard/backend/obj/Debug/net8.0/backend.AssemblyInfo.cs
+/Users/rushikesh/Desktop/dashboard/backend/obj/Debug/net8.0/backend.csproj.CoreCompileInputs.cache
+/Users/rushikesh/Desktop/dashboard/backend/obj/Debug/net8.0/backend.MvcApplicationPartsAssemblyInfo.cs
+/Users/rushikesh/Desktop/dashboard/backend/obj/Debug/net8.0/backend.MvcApplicationPartsAssemblyInfo.cache
+/Users/rushikesh/Desktop/dashboard/backend/obj/Debug/net8.0/staticwebassets.build.json
+/Users/rushikesh/Desktop/dashboard/backend/obj/Debug/net8.0/staticwebassets.development.json
+/Users/rushikesh/Desktop/dashboard/backend/obj/Debug/net8.0/staticwebassets/msbuild.backend.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/rushikesh/Desktop/dashboard/backend/obj/Debug/net8.0/staticwebassets/msbuild.build.backend.props
+/Users/rushikesh/Desktop/dashboard/backend/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.backend.props
+/Users/rushikesh/Desktop/dashboard/backend/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.backend.props
+/Users/rushikesh/Desktop/dashboard/backend/obj/Debug/net8.0/staticwebassets.pack.json
+/Users/rushikesh/Desktop/dashboard/backend/obj/Debug/net8.0/scopedcss/bundle/backend.styles.css
+/Users/rushikesh/Desktop/dashboard/backend/obj/Debug/net8.0/backend.csproj.Up2Date
+/Users/rushikesh/Desktop/dashboard/backend/obj/Debug/net8.0/backend.dll
+/Users/rushikesh/Desktop/dashboard/backend/obj/Debug/net8.0/refint/backend.dll
+/Users/rushikesh/Desktop/dashboard/backend/obj/Debug/net8.0/backend.pdb
+/Users/rushikesh/Desktop/dashboard/backend/obj/Debug/net8.0/backend.genruntimeconfig.cache
+/Users/rushikesh/Desktop/dashboard/backend/obj/Debug/net8.0/ref/backend.dll
